@@ -1,0 +1,10 @@
+.category-bg {
+  height: 7vh;
+}
+.category-items-list-container {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  list-style: none;
+  overflow: auto;
+}

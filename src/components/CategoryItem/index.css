@@ -1,0 +1,11 @@
+.category-item-btn {
+  background-color: transparent;
+  border: none;
+  width: 170px;
+  font-weight: bold;
+  font-family: roboto;
+  font-size: 15px;
+}
+.selected {
+  color: rgb(44, 196, 44);
+}
